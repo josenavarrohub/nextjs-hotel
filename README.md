@@ -2,14 +2,14 @@
 
 Application implemented with Next.js to learn more about this wonderful Vercel framework.
 
-[![NextJsHotel](https://github.com/josenavarrohub/nextjs-hotel/blob/main/demo.png?raw=true)](https://josenavarrohub.github.io/nextjs-hotel/)
+[![NextJsHotel](https://github.com/josenavarrohub/nextjs-hotel/blob/main/demo.png?raw=true)](https://nextjshotel.vercel.app/)
 
-[![NextJsHotel](https://github.com/josenavarrohub/nextjs-hotel/blob/main/demo2.png?raw=true)](https://josenavarrohub.github.io/nextjs-hotel/)
+[![NextJsHotel](https://github.com/josenavarrohub/nextjs-hotel/blob/main/demo2.png?raw=true)](https://nextjshotel.vercel.app/)
 
-[![NextJsHotel](https://github.com/josenavarrohub/nextjs-hotel/blob/main/demo3.png?raw=true)](https://josenavarrohub.github.io/nextjs-hotel/)
+[![NextJsHotel](https://github.com/josenavarrohub/nextjs-hotel/blob/main/demo3.png?raw=true)](https://nextjshotel.vercel.app/)
 
 ## Demo
-[https://josenavarrohub.github.io/nextjs-hotel/](https://josenavarrohub.github.io/nextjs-hotel/)
+[https://nextjshotel.vercel.app/](https://nextjshotel.vercel.app/)
 
 ## Prerequisites
 
