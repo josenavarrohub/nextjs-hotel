@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-family: var(--font-primary);
+    font-weight: 400;
+    color: theme('colors.grey.900');
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-secondary);
+    font-weight: 700;
+  }
+}
+
+@layer components {
+  .heading-1 {
+    @apply mb-8 text-4xl capitalize tracking-tight lg:text-6xl;
+  }
+
+  .heading-2 {
+    @apply mb-8 text-2xl capitalize tracking-tight lg:text-4xl;
+  }
+
+  .heading-3 {
+    @apply mb-8 text-lg capitalize lg:text-2xl;
+  }
+
+  .button {
+    @apply rounded-lg bg-secondary-600 px-6 py-3 text-center text-lg font-semibold capitalize text-white shadow-lg transition-colors duration-300 hover:bg-secondary-700;
+  }
+
+  .button-xs {
+    @apply rounded-lg bg-secondary-600 px-2 py-1 text-center text-sm font-semibold capitalize text-white shadow-lg transition-colors duration-300 hover:bg-secondary-700;
+  }
+
+  .button-secondary-xs {
+    @apply rounded-lg bg-grey-200 px-2 py-1 text-center text-sm font-medium capitalize transition-colors duration-300 hover:bg-grey-300;
+  }
+}

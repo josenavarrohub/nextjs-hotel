@@ -1,0 +1,77 @@
+# Dependency directories
+node_modules
+.pnp
+.pnp.js
+
+# Next.js build output
+.next/
+out/
+build/
+
+# Production build
+build/
+
+# Cache directories
+.cache/
+.npm/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# TypeScript build artifacts
+*.js
+*.d.ts
+*.tsbuildinfo
+
+# Vercel
+.vercel/
+
+# PWA files
+public/sw.js
+public/workbox-*.js
+
+# Storybook
+storybook-static/
+
+# Test coverage
+coverage/
+
+# Public static files
+/public/*.svg
+/public/static/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Misc
+.DS_Store
+Thumbs.db
+*.pem
+
+# Project specific
+README.md
+LICENSE
+
+# Ignore prettier configuration itself
+.prettierrc
+.prettierignore
+
+# Ignore API and CMS data
+*.graphql
+*.gql
+
+# Other stylesheets not in use
+**/node_modules/**/*
+**/build/**/*
+**/dist/**/*
